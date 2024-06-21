@@ -6,7 +6,7 @@ def search_names(names, find_name):
     else:
         print("no está")
 
-names = ["sami", "luz", "sami", "name"]
-find_name = "luz"
+names = ["sami", "luz", "sami", "name", "lila"]
+find_name = "sami"
 
 search_names(names, find_name)
